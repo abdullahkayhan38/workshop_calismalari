@@ -1,2 +1,2 @@
 # workshop_calismalari
-worksop candır!
+workshop candır!
